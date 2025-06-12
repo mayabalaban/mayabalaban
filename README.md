@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mayabalaban
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning java, python and SQL
-- 💞️ I’m looking to collaborate on projects related to music streaming
 - 📫 How to reach me: mbalaban@umass.edu
